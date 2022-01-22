@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+.big .black{
+    background-color: #1D1D1F;
+    height: 40px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.big .black a{
+    color: white;
+}
+li{
+    display: inline;
+}
+.big .big2{
+    display: flex;
+}
+.big .big2 .red{
+    background-color: #E34140;
+    height: 40px;
+    width: 2000px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.big .big2 .red a{
+    color: white;
+}
+.place{
+    text-align: center;
+}
+.text{
+    color: black;
+    text-align: center;
+}
+.text a{
+    color: deepskyblue;
+    text-align: center;
+}
+.picture{
+    text-align: center;
+}
+.text1{
+    color: black;
+    text-align: center;
+}
+.text1 a{
+    color: turquoise;
+    text-align: center;
+}
+.picture1{
+    text-align: center;
+}
